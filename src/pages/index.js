@@ -26,7 +26,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div className="bg-black h-[100vh]"></div>
+      {/* <div className="bg-black h-[100vh]"></div>
       <div className="flex flex-col items-center gap-[20px]">
         <div className="h-[100vh] flex items-center justify-center">
           <div className="w-[200px] h-[200px] bg-slate-400 " data-aos="fade-up">
@@ -44,7 +44,7 @@ export default function Home() {
             c
           </div>
         </div>
-      </div>
+      </div> */}
     </>
   )
 }
