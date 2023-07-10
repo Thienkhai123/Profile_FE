@@ -1,16 +1,17 @@
 {
-	"compilerOptions": {
-		"baseUrl": "src",
-		"skipLibCheck": true,
-		"paths": {
-			"@/*": ["./src/*"],
-			"common/*": ["common/*"],
-			"i18n/*": ["i18n/*"],
-			"layouts/*": ["layouts/*"],
-			"pages/*": ["pages/*"],
-			"store/*": ["store/*"],
-			"styles/*": ["styles/*"],
-			"stories/*": ["stories/*"]
-		}
-	}
+  "compilerOptions": {
+    "baseUrl": "src",
+    "skipLibCheck": true,
+    "paths": {
+      "@/*": ["./src/*"],
+      "common/*": ["common/*"],
+      "i18n/*": ["i18n/*"],
+      "layouts/*": ["layouts/*"],
+      "pages/*": ["pages/*"],
+      "store/*": ["store/*"],
+      "styles/*": ["styles/*"],
+      "stories/*": ["stories/*"],
+      "public/*": ["public/*"]
+    }
+  }
 }
