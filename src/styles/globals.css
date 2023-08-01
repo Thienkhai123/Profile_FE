@@ -30,7 +30,7 @@ a {
 }
 
 .background-argon {
-  background: linear-gradient(-45deg, #6a5af9, #9158ba, #d66efd);
+  background: linear-gradient(-45deg, #ff0000, #733a9c, #d66efd);
   background-size: 400% 400%;
   animation: gradient 15s ease infinite;
 }
